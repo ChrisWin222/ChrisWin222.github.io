@@ -51,6 +51,7 @@ h2 {
   text-align: left;
   color: #2a9d8f;
   padding: 10px 0px 10px 10px;
+  line-height: 1em;
 }
 
 img {
@@ -132,7 +133,7 @@ font-family: 'Ubuntu', sans-serif;
 
 .description {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 300;
   line-height: 1.29;
   letter-spacing: 0.1px;
@@ -178,5 +179,5 @@ footer div{
 }
 
 a {
-  color: #e9c46a;
+  color: #b98a16;
 }
